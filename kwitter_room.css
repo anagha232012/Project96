@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+#spane {
+    font-size: 70;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#log_out {
+  background-color: rgb(233, 106, 255);
+  border-radius: 70px;
+  font-size: 20;
+}
+#submit {
+  background-color: rgb(255, 209, 141);
+}
